@@ -14,6 +14,14 @@ Contract Analysis Pro is a sophisticated web application designed to analyze and
 - Contract summarization
 - User-friendly interface with animated elements
 
+## Dataset
+
+Contract Analysis Pro uses a comprehensive dataset to provide accurate and relevant contract analysis:
+
+- The system compares user contracts against 665 business contract templates, covering various business standards and purposes.
+- Our machine learning models are trained on a balanced dataset (balanced_dataset2.csv) containing 108,765 clauses, each categorized into specific types.
+- This extensive dataset ensures that our analysis covers a wide range of contract types and clauses, providing robust and reliable results.
+
 ## How to Use
 
 ### 1. Front Page
@@ -52,11 +60,6 @@ After submitting feedback, you'll be redirected to a thank you page.
 - This page confirms that your feedback has been received.
 - You can choose to go back to the Dashboard or start a new analysis from here.
 
-## Navigation
-
-- The header on most pages contains navigation links to Home, Services, About Us, and Contact.
-- You can always return to the home page by clicking on the "Contract Analysis Pro" logo.
-
 ## Buttons and Functions
 
 - **Start Validation**: Initiates the contract upload and analysis process.
@@ -70,12 +73,10 @@ After submitting feedback, you'll be redirected to a thank you page.
 
 Contract Analysis Pro prioritizes the security and confidentiality of your data. All uploaded contracts and analyses are processed securely.
 
-## Additional Information
+## About Us
+Made by - Jobinjoy Ponnappal
+        - Kavya Raj P
+        - Aleena Thomas
+        - Mohammed Amaan
 
-[Add any additional information about your project, such as setup instructions, dependencies, or contribution guidelines.]
 
-## License
-
-© 2024 Contract Analysis Pro. All rights reserved.
-
-[Include any specific license information here]
