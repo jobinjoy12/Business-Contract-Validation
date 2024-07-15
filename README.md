@@ -28,7 +28,7 @@ Contract Analysis Pro uses a comprehensive dataset to provide accurate and relev
 When you first access the application, you'll see the Business Contract Validation front page.
 - Click the "Start Validation" button to begin the contract analysis process.
 
-![Front Page](images/frontpage.jpg)
+![Front Page](images/frontpage.png)
 
 ### 2. Upload Page
 On the upload page, you can submit your contract for analysis.
@@ -36,7 +36,7 @@ On the upload page, you can submit your contract for analysis.
 - After selecting the file, click the "Upload" button to submit your contract for processing.
 - The system will analyze your contract and redirect you to the results page.
 
-![Upload Page](images/uploads.jpg)
+![Upload Page](images/uploads.png)
 
 ### 3. Results Page
 The results page displays a comprehensive analysis of your uploaded contract.
@@ -51,17 +51,17 @@ The results page displays a comprehensive analysis of your uploaded contract.
 - Read a concise Contract Summary.
 - Provide feedback using the feedback form at the bottom of the page.
 
-![Results Page](images/results4.jpg)
-![Results Page](images/results3.jpg)
-![Results Page](images/results2.jpg)
-![Results Page](images/results.jpg)
+![Results Page](images/results4.png)
+![Results Page](images/results3.png)
+![Results Page](images/results2.png)
+![Results Page](images/results.png)
 
 ### 4. Thank You Page
 After submitting feedback, you'll be redirected to a thank you page.
 - This page confirms that your feedback has been received.
 - You can choose to go back to the Dashboard or start a new analysis from here.
 
-![Thank You Page](images/thankyou.jpg)
+![Thank You Page](images/thankyou.png)
 
 ## Buttons and Functions
 
