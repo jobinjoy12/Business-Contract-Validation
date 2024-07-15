@@ -25,23 +25,21 @@ Contract Analysis Pro uses a comprehensive dataset to provide accurate and relev
 ## How to Use
 
 ### 1. Front Page
-
 When you first access the application, you'll see the Business Contract Validation front page.
-
 - Click the "Start Validation" button to begin the contract analysis process.
 
+![Front Page](images/frontpage.jpg)
+
 ### 2. Upload Page
-
 On the upload page, you can submit your contract for analysis.
-
 - Click on the "Choose File" button to select your contract file (PDF or DOCX format).
 - After selecting the file, click the "Upload" button to submit your contract for processing.
 - The system will analyze your contract and redirect you to the results page.
 
+![Upload Page](images/uploads.jpg)
+
 ### 3. Results Page
-
 The results page displays a comprehensive analysis of your uploaded contract.
-
 - View the full text of your uploaded contract.
 - See a list of Named Entities extracted from the contract, grouped by entity type.
 - Review the Deviations Analysis, which shows:
@@ -53,12 +51,17 @@ The results page displays a comprehensive analysis of your uploaded contract.
 - Read a concise Contract Summary.
 - Provide feedback using the feedback form at the bottom of the page.
 
+![Results Page](images/results4.jpg)
+![Results Page](images/results3.jpg)
+![Results Page](images/results2.jpg)
+![Results Page](images/results.jpg)
+
 ### 4. Thank You Page
-
 After submitting feedback, you'll be redirected to a thank you page.
-
 - This page confirms that your feedback has been received.
 - You can choose to go back to the Dashboard or start a new analysis from here.
+
+![Thank You Page](images/thankyou.jpg)
 
 ## Buttons and Functions
 
