@@ -15,12 +15,11 @@ Contract Analysis Pro is a sophisticated web application designed to analyze and
 - User-friendly interface with animated elements
 
 ## Dataset
-
 Contract Analysis Pro uses a comprehensive dataset to provide accurate and relevant contract analysis:
-
-- The system compares user contracts against 665 business contract templates, covering various business standards and purposes.
-- Our machine learning models are trained on a balanced dataset (balanced_dataset2.csv) containing 108,765 clauses, each categorized into specific types.
+- The system compares user contracts against [665 business contract templates](https://drive.google.com/drive/folders/1K9iD6_At3-K8S1EGjITh44pvqpY2pzvb?usp=drive_link), covering various business standards and purposes.
+- Our machine learning models are trained on a balanced dataset ([balanced_dataset2.csv](https://drive.google.com/file/d/18ZBTEvtNX3KUe26xw3u2IsN-zGQstdKq/view?usp=drive_link)) containing 108,765 clauses, each categorized into specific types.
 - This extensive dataset ensures that our analysis covers a wide range of contract types and clauses, providing robust and reliable results.
+- Other models used in this project can be found [here](https://drive.google.com/drive/folders/1Lg-tuYJu3xTU3Nnlz2_lc5RzPb4a_dSC?usp=drive_link).
 
 ## How to Use
 
