@@ -1,8 +1,6 @@
 # Business-Contract-Validation
 Intel Unnathi Project 
 Our Business Contract Validation System is designed to enhance the efficiency and accuracy of contract analysis. The system employs sophisticated machine learning algorithms to classify various contract clauses and detect deviations from standard templates. By comparing a user-provided contract with the most relevant template from a repository of 357 business contract templates, our system highlights any anomalies or deviations, thereby ensuring that contracts adhere to predefined standards and mitigating potential risk.
-The Business Contract Validation System represents a significant advancement in contract management technology. Its unique combination of robust classification, deviation detection, scalability, and automation makes it an invaluable tool for businesses seeking to streamline their contract processes and ensure compliance with legal and organizational standards.
-# Contract Analysis Pro
 
 Contract Analysis Pro is a sophisticated web application designed to analyze and validate business contracts using advanced AI and natural language processing techniques.
 
